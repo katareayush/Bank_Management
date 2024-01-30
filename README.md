@@ -1,2 +1,1 @@
-Hey !! 
-My first ever commit on github
+Trying to link it to a skeleton HTML website.
